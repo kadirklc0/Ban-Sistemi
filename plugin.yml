@@ -3,4 +3,13 @@ version: 1.0
 main: BanSistemi\Ban\Main
 author: kadirklc0x
 
+
 commands:
+  puan:
+    description: puan atmak!
+  puanim:
+    description: puan durumuna balarsın!
+  puansil:
+    description: oyuncunun puanını silersin!
+  at:
+    description: oyuncuyu atar!
