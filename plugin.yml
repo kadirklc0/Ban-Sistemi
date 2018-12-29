@@ -1,0 +1,6 @@
+name: Ban
+version: 1.0
+main: BanSistemi\Ban\Main
+author: kadirklc0x
+
+commands:
