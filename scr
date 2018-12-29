@@ -1,1 +1,12 @@
+<?php
 
+namespace BanSistemi\Ban;
+
+use pocketmine\plugin\pluginBase;
+use pocketmine\command\{Commandender, Command};
+use pocketmine\level\Level;
+use pocketmine\math\Vector3;
+use pocketmine\utils\Config;
+use pocketmine\{Server, Player};
+use pocketmine\event\Listener;
+use
